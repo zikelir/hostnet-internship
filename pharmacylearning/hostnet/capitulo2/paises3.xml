@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pais>
+    <nome> Brasil </nome>
+    <idioma> portugues </idioma>
+    <religiao> Catolica </religiao>
+    <moeda> Real (R$) </moeda>
+    <populacao> 190 milhoes </populacao>
+    <geografia>
+        <clima>tropical</clima>
+        <costa>7367</costa>
+        <pico>Neblina</pico>
+    </geografia>
+    <estados>
+        <Nome>Rio Grande do Sul</Nome>
+        <Nome>São Paulo</Nome>
+        <Nome>Minas Gerais</Nome>
+        <Nome>Rio de Janeiro</Nome>
+        <Nome>Paraná</Nome>
+        <Nome>Mato Grosso</Nome>
+    </estados>
+</pais>

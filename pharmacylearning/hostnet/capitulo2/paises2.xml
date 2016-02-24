@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pais>
+    <nome> Brasil </nome>
+    <idioma> portugues </idioma>
+    <religiao> Catolica </religiao>
+    <moeda> Real (R$) </moeda>
+    <populacao> 190 milhoes </populacao>
+    <geografia>
+        <clima>tropical</clima>
+        <costa>7367</costa>
+        <pico>Neblina</pico>
+    </geografia>
+</pais>

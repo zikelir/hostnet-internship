@@ -1,0 +1,19 @@
+.section {
+	text-align: center;
+		padding-left: 150px;
+		padding-right: 150px;
+}
+
+.footer {
+	clear: both;
+	height: 4em;
+        background-color: #2E6FE8;
+        color: #c4e3f3;
+}
+
+.index-welcome {
+        background-color: #2E6FE8;
+        color: #c4e3f3;
+        }
+        
+     
